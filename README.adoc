@@ -1,0 +1,27 @@
+= VAXstation 3100 SCSI Terminator
+Malte Dehling
+
+:imagesdir: https://raw.githubusercontent.com/1k5/vs3100-scsi-terminator/main/img/
+
+:url-vs3100-scsi: https://www.xanthos.se/~joachim/DEC_SCSI.html
+:url-TE-Connectivity: https://www.te.com/
+
+
+This is a replacement for the VAXstation 3100 SCSI Terminator.  I have not yet
+tested the design, it is a work in progress!  More information coming soon...
+
+
+Parts
+-----
+These are the parts I use:
+
+[%autowidth]
+|===
+| Designator | Quantity | Description
+
+| J1         | 1        | T/E 786555-7
+| RN1, RN2   | 2        | Bourns 4611X-104-221/331
+|===
+
+I would like to thank the folks at {url-TE-Connectivity}[T/E Connectivity] for
+sending me free samples of their connectors.

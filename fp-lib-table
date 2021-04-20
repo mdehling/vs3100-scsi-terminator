@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vs3100-scsi-terminator)(type KiCad)(uri ${KIPRJMOD}/vs3100-scsi-terminator.pretty)(options "")(descr ""))
+)
