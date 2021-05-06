@@ -8,9 +8,9 @@ Malte Dehling <mdehling@gmail.com>
 
 
 This is a replacement for the VAXstation 3100 SCSI Terminator.  The 68-pin
-connector is SCSI-1 SE with a proprietary pinout, _not_ wide SCSI!  Your only
-options are to buy an original SCSI Terminator (DEC P/N 12-29635-01) or to
-make your own.
+connector is SCSI-1 SE with a {url-vs3100-scsi}[proprietary pinout], _not_
+wide SCSI!  Your only options are to buy an original SCSI Terminator (DEC P/N
+12-29635-01) or to make your own.
 
 
 Parts
