@@ -1,5 +1,5 @@
 = VAXstation 3100 SCSI Terminator
-Malte Dehling
+Malte Dehling <mdehling@gmail.com>
 
 :imagesdir: https://raw.githubusercontent.com/1k5/vs3100-scsi-terminator/main/img/
 
@@ -7,8 +7,10 @@ Malte Dehling
 :url-TE-Connectivity: https://www.te.com/
 
 
-This is a replacement for the VAXstation 3100 SCSI Terminator.  I have not yet
-tested the design, it is a work in progress!  More information coming soon...
+This is a replacement for the VAXstation 3100 SCSI Terminator.  The 68-pin
+connector is SCSI-1 SE with a proprietary pinout, _not_ wide SCSI!  Your only
+options are to buy an original SCSI Terminator (DEC P/N 12-29635-01) or to
+make your own.
 
 
 Parts
@@ -25,3 +27,13 @@ These are the parts I use:
 
 I would like to thank the folks at {url-TE-Connectivity}[T/E Connectivity] for
 sending me free samples of their connectors.
+
+
+Assembly
+--------
+Just solder on the parts, but make sure to get their orientation right!  Check
+these images to see what the result should look like:
+
+link:{imagesdir}front.jpg[image:front.jpg["Front Side",width=32%]]
+link:{imagesdir}back.jpg[image:back.jpg["Back Side",width=32%]]
+link:{imagesdir}angle.jpg[image:angle.jpg["At an Angle",width=32%]]
