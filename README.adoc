@@ -1,7 +1,7 @@
 = VAXstation 3100 SCSI Terminator
 Malte Dehling <mdehling@gmail.com>
 
-:imagesdir: https://raw.githubusercontent.com/1k5/vs3100-scsi-terminator/main/img/
+:imagesdir: https://raw.githubusercontent.com/mdehling/vs3100-scsi-terminator/main/img/
 
 :url-vs3100-scsi: https://www.xanthos.se/~joachim/DEC_SCSI.html
 :url-TE-Connectivity: https://www.te.com/
